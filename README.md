@@ -1,8 +1,8 @@
 # I AM Ali 👋
-Ali Nazari. I'm a fullstack web developer. I started my career with many startups using various languages and tools such as JavaScript, TypeScript, PHP and MySQL.
-These days I'm deeply focusing on frontend environment and working with languages and tools such as JavaScript, TypeScript, React.js, Vue.js, etc.
+Ali Nazari. I'm a fullstack web developer. Started my career with many startups using various languages and tools such as JavaScript, TypeScript, PHP and MySQL.
+These days I'm deeply focusing on frontend environment and working with languages and tools such as JavaScript, TypeScript, Vue.js, React.js, etc.
 
-I've published +400 fresh, professional articles about the web development, mostly about the frontend tools and technologies, JavaScript and Laravel on my blog.
+Published +400 fresh, professional articles about the web development, mostly about the frontend tools and technologies, JavaScript and Laravel on my blog.
 You can find out more about my activities on **[DITTY.IR](https://ditty.ir)** and my **[LinkedIn](https://www.linkedin.com/in/alinazari11/)** profile 😉
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-f0f0f0?&style=for-the-badge&logo=linkedin&logoColor=white&color=0e76a8)](https://www.linkedin.com/in/alinazari11/)
@@ -16,8 +16,8 @@ The languages and tools that we spend our time together:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
