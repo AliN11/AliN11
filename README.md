@@ -1,5 +1,5 @@
 # I AM Ali 👋
-Ali Nazari. I'm a fullstack web developer. Started my career with many startups using various languages and tools such as JavaScript, TypeScript, PHP and MySQL.
+Ali Nazari. I'm a Frontend Web Developer. Started my career with many startups using various languages and tools such as JavaScript, TypeScript, PHP and MySQL.
 These days I'm deeply focusing on frontend environment and working with languages and tools such as JavaScript, TypeScript, Vue.js, React.js, etc.
 
 Published +400 fresh, professional articles about the web development, mostly about the frontend tools and technologies, JavaScript and Laravel on my blog.
