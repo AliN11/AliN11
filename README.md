@@ -10,7 +10,7 @@ You can find out more about my activities on **[DITTY.IR](https://ditty.ir)** an
 [![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:alinazari.7321@gmail.com) 
 [![DITTY](https://img.shields.io/badge/personal%20blog-f0f0f0?&style=for-the-badge&logoColor=white&color=000000)](https://ditty.ir) 
 
-<img src="https://github-readme-stats.vercel.app/api?username=alin11&theme=algolia" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alin11&layout=compact&theme=algolia" height="180" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=alin11&theme=algolia" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alin11&layout=compact&theme=algolia" height="180" /> -->
 
 The languages and tools that we spend our time together:
 
