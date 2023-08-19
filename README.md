@@ -2,7 +2,7 @@
 Ali Nazari. I'm a Frontend Web Developer. Started my career with many startups using various languages and tools such as JavaScript, TypeScript, PHP and MySQL.
 These days I'm deeply focusing on frontend environment and working with languages and tools such as JavaScript, TypeScript, Vue.js, React.js, etc.
 
-Published +400 fresh, professional articles about the web development, mostly about the frontend tools and technologies, JavaScript and Laravel on my blog.
+Published +400 unique and professional web development articles about the frontend tools and technologies, JavaScript and Laravel on my blog.
 You can find out more about my activities on **[DITTY.IR](https://ditty.ir)** and my **[LinkedIn](https://www.linkedin.com/in/alinazari11/)** profile 😉
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-f0f0f0?&style=for-the-badge&logo=linkedin&logoColor=white&color=0e76a8)](https://www.linkedin.com/in/alinazari11/)
